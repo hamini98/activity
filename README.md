@@ -12,7 +12,7 @@
 https://blog.naver.com/3dhsm/postwrite?categoryNo=14
 
 
-#fragment
+# fragment
 
 프래그먼트 창 생성, 넘어갔다 돌아왔다하기
 https://blog.naver.com/PostView.nhn?blogId=3dhsm&Redirect=View&logNo=222308643065&categoryNo=14&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=14117
